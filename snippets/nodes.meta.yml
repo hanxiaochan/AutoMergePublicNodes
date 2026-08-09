@@ -611,7 +611,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 9|🐻6@oneclickvpnkeys
+- name: 9|6@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85

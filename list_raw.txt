@@ -75,7 +75,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#9%7C%40prrofile_purple%20%20%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://gLkkfesaSD@156.226.175.33:40308?insecure=1&obfs=salamander&obfs-password=Jdb392b3j838dkdn3j$$ueh#9%7CZOHAL-SVERVER-1
 hysteria2://gf1@185.156.44.99:443?insecure=1&sni=vk.com#9%7C70%40oneclickvpnkeys
-hysteria2://gf1@5.129.235.85:443?insecure=1&sni=vk.com#9%7C%F0%9F%90%BB6%40oneclickvpnkeys
+hysteria2://gf1@5.129.235.85:443?insecure=1&sni=vk.com#9%7C6%40oneclickvpnkeys
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=7h5we82pkgh4qwid#9%7C%40NormanConfig%20%231
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52062?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#9%7C%40NormanConfig%20%232
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52000?sni=assets.gateway-stream.com#9%7C%F0%9F%87%B1%40ShadowFlux2%F0%9F%91%88A3
